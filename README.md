@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Areodino
-- 👀 I’m interested in designing
-- 🌱 I’m currently learning Unity
+- 👀 I am a full fleadged lua developer
+- 🌱 I’m currently learning VFX in roblox
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord - AreoDino#6883
+- 📫 How to reach me Discord - topsy677
 
 <!---
 Areodino/Areodino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
