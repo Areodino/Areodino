@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Areodino
+- 👋 Hi, I’m @Topsy
 - 👀 I am a full fleadged lua developer
-- 🌱 I’m currently learning VFX in roblox
+- 🌱 I’m currently learning Bot development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord - topsy677
 
