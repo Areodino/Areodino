@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Topsy
 - 👀 I am a full fleadged lua developer
-- 🌱 I’m currently learning Bot development
+- 🌱 I’m currently learning Godot development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord - topsy677
 
