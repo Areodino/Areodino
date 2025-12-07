@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Topsy
-- 👀 I am a full fleadged lua developer
-- 🌱 I’m currently learning Godot development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord - topsy677
+Known Languages: Python, lua(roblox), C#(Unity), Java(Minecraft), Javascript(Discord Bots)
+Learning: Malware Development
+How to reach me Discord - topsy677
 
 <!---
 Areodino/Areodino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
